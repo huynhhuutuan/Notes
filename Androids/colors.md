@@ -1,4 +1,4 @@
-**Resources.GetColor** has been deprecated. Make sure you use **ContextCompat.GetColor** instead.
+**Resources.GetColor** has been deprecated. Make sure you use **ContextCompat.GetColor** instead.\n
 So:
 	**Resources.GetColor(Resource.Color.HoloOrangeDark);**
 Will become:
